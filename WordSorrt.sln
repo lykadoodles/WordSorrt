@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WordSorrt", "WordSorrt\WordSorrt.njsproj", "{7FC11C43-12E1-4812-87C0-3D3AF9BF8831}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoordSoort", "WoordSoort\WoordSoort.csproj", "{CC4CD118-5624-4891-B19C-F09F0D2A18A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WoordSoort", "WoordSoort\WoordSoort.csproj", "{CC4CD118-5624-4891-B19C-F09F0D2A18A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7FC11C43-12E1-4812-87C0-3D3AF9BF8831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7FC11C43-12E1-4812-87C0-3D3AF9BF8831}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7FC11C43-12E1-4812-87C0-3D3AF9BF8831}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7FC11C43-12E1-4812-87C0-3D3AF9BF8831}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CC4CD118-5624-4891-B19C-F09F0D2A18A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CC4CD118-5624-4891-B19C-F09F0D2A18A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC4CD118-5624-4891-B19C-F09F0D2A18A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
